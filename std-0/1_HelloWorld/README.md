@@ -2,7 +2,7 @@
 ## Declaración de problema
 
 Escriba un contrato para imprimir una cadena "Hello World!". La impresión no debe involucrar ningún gas. Vas a tener que usar [Remix](https://remix.ethereum.org/).
-Si sos medio opa, no googleaste nada  y no sabes como usar remix acá te dejo un (mini tutorial)[https://collectednotes.com/nicoarkano/hola-mundo-en-solidity]
+Si sos medio opa, no googleaste nada  y no sabes como usar remix acá te dejo un [mini tutorial](https://collectednotes.com/nicoarkano/hola-mundo-en-solidity)
 Ojo el Hola Mundo no es exactamente el mismo. Te aviso por si te pinta el Kakashi. 
 
 
