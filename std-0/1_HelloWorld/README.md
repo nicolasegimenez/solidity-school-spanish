@@ -1,10 +1,13 @@
-# HelloWorld
-## Problem Statement
+# Hola mundo
+## Declaración de problema
 
-Write a contract to print a string "Hello World!". Printing should not involve any gas.
+Escriba un contrato para imprimir una cadena "Hello World!". La impresión no debe involucrar ningún gas. Vas a tener que usar [Remix](https://remix.ethereum.org/).
+Si sos medio opa, no googleaste nada  y no sabes como usar remix acá te dejo un (mini tutorial)[https://collectednotes.com/nicoarkano/hola-mundo-en-solidity]
+Ojo el Hola Mundo no es exactamente el mismo. Te aviso por si te pinta el Kakashi. 
 
-## Informational Hint
-To define a function which should not consume any gas and return the response immediatly, we should use `view` or `pure` function.
 
-* <b>View Functions:</b> Functions can be declared view in which case they promise not to modify the state.
-* <b>Pure Functions:</b> Functions can be declared pure in which case they promise not to read from or modify the state.
+## Sugerencia informativa
+Para definir una función que no debe consumir ningún gas y devolver la respuesta inmediatamente, debemos usar la función `view` o `pure`.
+
+* <b> Ver funciones: </b> Las funciones se pueden declarar vista en cuyo caso prometen no modificar el estado.
+* <b> Funciones puras: </b> Las funciones pueden declararse puras, en cuyo caso prometen no leer o modificar el estado.
