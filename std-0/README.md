@@ -1,4 +1,4 @@
 # Standard :zero:
-Welcome started, great to see you taking first steps towards Solidity !!!
+Bienvenido Joven Padawan,¡Qué bueno verte dando los primeros pasos hacia Solidity!
 
-Here, we make sure that your entry to smart contract world is smooth and interesting. So we present you very simple problem statement to get familiar with the wind. Hope you will feel better here. 
+Acá me aseguro de que tu entrada en el mundo de los contratos inteligentes sea suave e interesante (como tu hermana). Así que te presento unos problemas simples para resolver. Espero que tengas una buena estancia en el curso. 
