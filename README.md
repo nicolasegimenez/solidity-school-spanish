@@ -1,25 +1,24 @@
-# :school_satchel: solidity-school
-Solidity School is an initiative to prepare a code base for the solidity beginners by those who were beginners sometime.It categorize the smart contracts according to different difficulty levels and in multiple standards. For now, standards are 0 to 5(can be discussed). 
+# :school_satchel: Escuelita de Solidity
+Escuelita de Solidity es una iniciativa para preparar una base de código para los principiantes de solidity de parte de aquellos que fuimos principiantes en algún momento.  Categoriza los contratos inteligentes de acuerdo a diferentes niveles de dificultad y estándares. Por ahora, las normas son de 0 a 5 (puede ser discutido). 
 
-Idea of Solidity School is to **Learn-n-Contribute**. So a beginner will learn to code and will contribute for the upcoming ones. 
+La idea de la escuelita de Solidity es **Aprender y Contribuir**. Así que la idea es que un principiante aprenda a codear y luego contribuya para los próximas versiones del curso. 
 
-So, in this repo, one needs to start with standard 0 (std-0). Each standard will have a problem statement and an informational hint for each task, learners can try to write the contract by solving the problem statement and understanding the hint. Once done, final contract can be compared with the one provided in this repository. If learner thinks that his or her contract is better than the one in this repo, a Pull Request can be raised to contribute
+Por lo tanto, en este repositorio, uno tiene que empezar con el estándar 0 (std-0). Cada estándar tendrá un enunciado del problema y una pista informativa para cada tarea, los alumnos pueden intentar escribir el contrato resolviendo el enunciado del problema y entendiendo la pista. Una vez hecho esto, el contrato final puede compararse con el que se proporciona en este repositorio. Si el alumno cree que su contrato es mejor que el de este repositorio, puede enviar una Pull Request para contribuir a este proyecto.
 
-This project needs a great support from Blockchain enthusiasts, developer and researchers to build this school in a way which can attract learners and provide them ease for learning the development.
+Este proyecto necesita un gran apoyo de los entusiastas de Blockchain, desarrolladores e investigadores para construir esta escuela de una manera que pueda atraer a los estudiantes y proporcionarles ayuda mientras aprenden a programar.
 
-## Categorization
-Categorization of contracts in standard will be done in the way so that one can increase the learning with movement to upwards. In case of any discrepancies, it can be discussed via issues/PRs. 
+## Categoria
+Los contratos están categorizados de tal manera que aumenten de dificultad a medida que avanzas en el curso. 
+En caso de discrepancias, se puede discutir a través de Issues o Pull Requests. 
 
-Initially, contributor will suggest the standard and it can further be discussed in the thread.
+## Más detalles
+Para otros detalles, visite la sección wiki.
 
-## More Details
-For various other details, visit the wiki section.
+* Para conocer las normas, visite [Normas](https://github.com/Aniket-Engg/solidity-school/wiki/Standards)
+* Cómo puede un desarrollador aprender de este repositorio, visite [Cómo aprender](https://github.com/Aniket-Engg/solidity-school/wiki/How-to-learn)
+* Si desea contribuir, visite [Directrices de contribución](https://github.com/Aniket-Engg/solidity-school/wiki/Contribution-Guidelines)
 
-* To know about the standards, visit [Standards](https://github.com/Aniket-Engg/solidity-school/wiki/Standards)
-* How can a developer learn from this repository, visit [How To Learn](https://github.com/Aniket-Engg/solidity-school/wiki/How-to-learn)
-* One who is looking to contribute should visit [Contribution Guidelines](https://github.com/Aniket-Engg/solidity-school/wiki/Contribution-Guidelines)
+## Versión Solidity
+Actualmente los contratos en este repositorio soportan la versión 0.8.17 de Solidity. Se actualizará siguiendo las versiones mayores y menores.
 
-## Solidity Version
-Currently contracts in this repo support Solidity version 0.8.17 . It will be updated following the major & minor release.
-
-**NOTE:** Contracts in this repository are only for learning purpose and not recommended for production use.
+**NOTA:** Los contratos en este repositorio son sólo para fines de aprendizaje y no se recomienda para uso de producción.
